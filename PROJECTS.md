@@ -2,8 +2,8 @@
  
  | Category | Project | Status | README |
  | --- | --- | --- | --- |
- | SEO/GEO | (TBD) | idea | `categories/seo-geo/projects/` |
- | AI Companion | (TBD) | idea | `categories/ai-companion/projects/` |
- | AI Metaphysics | (TBD) | idea | `categories/ai-metaphysics/projects/` |
- | AI Media | (TBD) | idea | `categories/ai-media/projects/` |
- | AI Workflow | (TBD) | idea | `categories/ai-workflow/projects/` |
+| AI Chatbot | Help Center QA | demo | `ai-chatbot/wegic-help-center-doc-qa.md` |
+| AI Media | AITattoo | demo | `ai-media/AITattoo.md` |
+| AI Workflow | Douban Export | demo | `ai-workflow/Douban-export.md` |
+| SEO/GEO | Findable | demo | `seo-geo/Findable.md` |
+| SEO/GEO | SEO Scout | demo | `seo-geo/SEO-Scout.md` |
