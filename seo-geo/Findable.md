@@ -2,6 +2,10 @@
 
 A Progressive Web App (PWA) that helps small business owners check if their website can be found by search engines and AI assistants.
 
+## Demo
+
+Demo video: [download](./findable.mp4?raw=1)
+
 ## Features
 
 - **One-Click Health Check**: Enter your domain and get instant visibility scores
