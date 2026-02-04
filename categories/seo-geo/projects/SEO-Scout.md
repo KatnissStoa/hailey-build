@@ -4,7 +4,9 @@ A comprehensive, real-time SEO analysis tool that helps website owners, marketer
 
 ## Demo
 
-<video src="./SEO-Scout.preview.mp4" controls></video>
+<video controls preload="metadata">
+  <source src="./SEO-Scout.preview.mp4?raw=1" type="video/mp4" />
+</video>
 
 Full video: [download](./SEO-Scout.mp4?raw=1)
 
