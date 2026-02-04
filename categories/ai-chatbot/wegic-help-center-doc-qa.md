@@ -4,7 +4,7 @@ Minimal chat demo that routes questions to a single help-center page by title an
 
 ## Demo
 
-<video src="./wegic-help-center-qa.mp4" controls></video>
+<video src="./wegic-help-center-qa.mp4?raw=1" controls playsinline></video>
 
 ## Architecture Overview
 
