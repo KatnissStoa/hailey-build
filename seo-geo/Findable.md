@@ -4,6 +4,8 @@ A Progressive Web App (PWA) that helps small business owners check if their webs
 
 ## Demo
 
+https://github.com/user-attachments/assets/12ad562f-d3eb-41e8-b19c-57d6791a5e82
+
 Demo video: [download](./findable.mp4?raw=1)
 
 ## Features
